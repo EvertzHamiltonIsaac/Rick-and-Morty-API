@@ -6,6 +6,8 @@
     margin: auto;
 }
 
+
+
 .App_Location {
     margin: auto;
     padding: 5px;
@@ -29,9 +31,14 @@
     padding: 10px;
 }
 
+
 @media (min-width: 400px) {
     .App_Location {
         width: 1000px;
         padding: 5px;
+    }
+
+    .TopPage {
+        height: 400px;
     }
 }

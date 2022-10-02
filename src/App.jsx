@@ -49,7 +49,10 @@ function App() {
   return (
     <main className="App">
 
-      <TopPageIMG />
+      <section className='TopPage'>
+        <TopPageIMG />
+      </section>
+
 
       <section className="App_input">
 

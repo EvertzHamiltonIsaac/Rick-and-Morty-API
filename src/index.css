@@ -27,17 +27,18 @@ ul {
 }
 
 .TopPageIMG {
-    width: 100%;
-    height: 250px;
+    background-color: #256D85;
+    min-width: 100%;
+    height: 300px;
 
 
     display: flex;
     justify-content: center;
-    position: relative;
 }
 
 .TopPageIMG img {
     width: 100%;
+    height: 100%;
 }
 
 .TopPageIMG_img_tittle {
@@ -223,7 +224,7 @@ ul {
 @media (min-width: 400px) {
     .TopPageIMG {
         width: 100%;
-        height: 250px;
+        height: 100%;
 
 
         display: flex;
